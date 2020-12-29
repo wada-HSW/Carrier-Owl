@@ -1,8 +1,8 @@
 # arxivの学問領域の指定
-subject: 'cs'
+subject: 'eess'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        sound: 3
+        audio: 3
+        speech: 1
